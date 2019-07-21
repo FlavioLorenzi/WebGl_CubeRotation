@@ -1,6 +1,5 @@
 /* HOMEWORK 1 - 
-    LORENZI FLAVIO - 
-        MAT 1662963 */
+    LORENZI FLAVIO  */
 
 "use strict";
 
